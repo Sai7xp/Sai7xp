@@ -2,9 +2,11 @@
 <h3 align="center">Design-minded Full-Stack Dev</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=movingmelody" alt="movingmelody" /></a> </p> -->
 
+- 👨‍💻 SDE @WebKnot Technologies
 - 🔭 Currently working on designing Full-Stack Applications
-- 🌱 I’m currently learning MERN Stack, Flutter, CP
+- 🌱 I’m currently learning MERN Stack, Flutter
 - 💬 Ask me about Js, C++, Design, CP
+- Occationally doing CP
 
 <p align="left">
 <a href="https://twitter.com/MovingMelody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="movingmelody" height="30" width="40" /></a>
