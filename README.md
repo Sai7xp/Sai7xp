@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sai Sumanth 🌼</h1>
+<h1 align="center">Hi there, I'm Sai Sumanth 🌱</h1>
 <h3 align="center">Design-minded Full-Stack Dev</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=movingmelody" alt="movingmelody" /></a> </p> -->
 
