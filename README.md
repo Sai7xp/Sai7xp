@@ -2,10 +2,10 @@
 <h3 align="center">Design-minded Full-Stack Dev</h3>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=movingmelody" alt="movingmelody" /></a> </p> -->
 
-- 👨‍💻 SDE @WebKnot Technologies
+- 👨‍💻 SDE
 - 🔭 Currently designing Full-Stack Applications
-- 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about JS, TS, Java, Design, CP
+- 🌱 I’m currently learning DSA & low-level programming
+- 💬 Ask me about JS, Java, Design, DSA, Flutter
 - Occationally doing UI Design
 
 <p align="left">
