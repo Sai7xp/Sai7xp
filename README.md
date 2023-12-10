@@ -6,7 +6,6 @@
 - 🔭 Currently designing Full-Stack Applications
 - 🌱 I’m currently learning DSA & low-level programming
 - 💬 Ask me about JS, Java, Design, DSA, Flutter
-- Occationally doing UI Design
 
 <p align="left">
 <a href="https://twitter.com/MovingMelody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="movingmelody" height="30" width="40" /></a>
