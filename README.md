@@ -3,7 +3,6 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=movingmelody" alt="movingmelody" /></a> </p> -->
 
 - 👨‍💻 SDE
-- 🔭 Currently designing Full-Stack Applications
 - 🌱 I’m currently learning DSA & low-level programming
 - 💬 Ask me about JS, Java, Design, DSA, Flutter
 
