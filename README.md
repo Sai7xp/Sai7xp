@@ -1,18 +1,18 @@
 <h1 align="center">Hi there, I'm Sai Sumanth 🌱</h1>
 <h3 align="center">Design-minded Full-Stack Dev</h3>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=movingmelody" alt="movingmelody" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sai7xp" alt="Sai7xp" /></a> </p> -->
 
 - 👨‍💻 SDE
 - 🌱 I’m currently learning DSA & low-level programming
 - 💬 Ask me about JS, Java, Design, DSA, Flutter
 
 <p align="left">
-<a href="https://twitter.com/MovingMelody" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="movingmelody" height="30" width="40" /></a>
+<a href="https://twitter.com/Sai7xp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Sai7xp" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/movingmelody/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="movingmelody" height="30" width="40" /></a>
-<a href="https://dev.to/movingmelody" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@movingmelody" height="30" width="40" /></a>
+<a href="https://dev.to/sai7xp" target="blank"><img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-black.png" alt="@sai7xp" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=movingmelody&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="movingmelody" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=movingmelody&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sai7xp&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Sai7xp" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Sai7xp&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <h3 align="left">Technologies/Tools I work with : </h3>
 
