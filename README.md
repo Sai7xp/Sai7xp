@@ -3,8 +3,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sai7xp" alt="Sai7xp" /></a> </p> -->
 
 - 👨‍💻 SDE
-- 🌱 I’m currently learning DSA & low-level programming
-- 💬 Ask me about JS, Java, Design, DSA, Flutter
+- 💬 Ask me about GO, Js, Java, Design, DSA, Flutter
 
 <p align="left">
 <a href="https://twitter.com/Sai7xp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Sai7xp" height="30" width="40" /></a>
